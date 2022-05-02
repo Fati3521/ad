@@ -1,0 +1,8 @@
+Flask>=1.0,<=1.1.2
+Wheel
+Requests
+numpy
+Pillow
+Azureml-sdk
+opencv-python
+tensorflow
